@@ -1,4 +1,4 @@
-# [How Does the BMP280 Digital Pressure Sensor Work and how to Interface it with Arduino]
+# How Does the BMP280 Digital Pressure Sensor Work and how to Interface it with Arduino
 
 <br>
 <br>
